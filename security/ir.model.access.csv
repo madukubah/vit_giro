@@ -1,0 +1,9 @@
+"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
+access_vit_giro,access_vit_giro,model_vit_giro,account.group_account_manager,1,1,1,1
+access_vit_giro_invioce,access_vit_giro_invioce,model_vit_giro_invioce,account.group_account_manager,1,1,1,1
+access_vit_giro,access_vit_giro,model_vit_giro,account.group_account_invoice,1,1,1,1
+access_vit_giro_invioce,access_vit_giro_invioce,model_vit_giro_invioce,account.group_account_invoice,1,1,1,1
+access_vit_giro,access_vit_giro,model_vit_giro,account.group_account_user,1,1,1,1
+access_vit_giro_invioce,access_vit_giro_invioce,model_vit_giro_invioce,account.group_account_user,1,1,1,1
+access_vit_giro,access_vit_giro,model_vit_giro,,1,0,0,0
+access_vit_giro_invioce,access_vit_giro_invioce,model_vit_giro_invioce,,1,0,0,0
